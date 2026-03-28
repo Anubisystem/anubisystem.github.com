@@ -1,57 +1,67 @@
-<Content>
-  <item title="AnubisTV" description="Mexico" hdposterurl="https://www.shutterstock.com/shutterstock/photos/1670473414/display_1500/stock-vector-anubis-esport-logo-with-a-serious-look-cool-charm-and-super-wow-1670473414.jpg" streamformat="mp4" url="https://dn720301.ca.archive.org/0/items/bienvenida_202105/Bienvenida.mp4"/>
-  <item title="# VAMOS" description="General" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnj91SBYlRT7jb1HyeSOzCDlrCGLBNLEfs5LOUDdFD8sr/m3u8"/>
-  <item title="MX | TELEVISA CD JUAREZ | SD" description="Mexico" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdniciDKCAInSHO3fx60JzKb4tbfa4KbqcHK_wugt6aVjB/m3u8"/>
-  <item title="MX | TELEVISA GUADALAJARA | HD" description="Mexico" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdniciDKCAInSHO3fx60JzKb7JxC8Cer-a266lHtQCJsgl/m3u8"/>
-  <item title="MX | TELEVISA MONTERREY | HD" description="Mexico" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdniciDKCAInSHO3fx60JzKb6CzMQTUmOmH0HwRFVDYsCV/m3u8"/>
-  <item title="MX | TELEVISA PUEBLA | HD" description="Mexico" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdniciDKCAInSHO3fx60JzKb6jLmjOcBdrV6Japj0tOlgs/m3u8"/>
-  <item title="DW / DW - Espana" description="Spain" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdntWYwISGcGCfI0Xa9Q9tZ_4GDS1N78RCYOo9HwXwFWI7/m3u8"/>
-
-  <item title="24/7 Cine Terror 3" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsWnNC1-L7uecipaYb9PEFKo/m3u8"/>
-  <item title="24/7 Alerta Aeropuerto" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsXZyJD1rC4SYkVRfBSJRGDO/m3u8"/>
-  <item title="24/7 Caballeros del Zodiaco cap 1 - 40" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsWw90wG8Gl39pvj10qrXDG5/m3u8"/>
-  <item title="24/7 Cantinflas 3" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnt8P8-oVbrvynXcq7pNqL8a8PcSS_8ohPSH20S2boV8h/m3u8"/>
-  <item title="24/7 Casa dibujos" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnt8P8-oVbrvynXcq7pNqL8bGuHTjvHsb1NKHoGirZyQ9/m3u8"/>
-  <item title="24/7 Chespirito" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsWqkwYiMUW9RCyPibLPH4xL/m3u8"/>
-  <item title="24/7 Cine Marvel Studio" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsUm46HF7ChQpf4vcVz1sDWO/m3u8"/>
-  <item title="24/7 Cobra Kai" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsXxkx96TeiJExebdbjZbJhw/m3u8"/>
-  <item title="24/7 Dragon Ball Super" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsX393rnQs-15Uj4Hnuq2p1o/m3u8"/>
-  <item title="24/7 Futurama" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnt8P8-oVbrvynXcq7pNqL8YLZ4Je8Mcf_6i1ahGcMjjB/m3u8"/>
-  <item title="24/7 Los Simpsons" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsVi81RCXIWDU5V6HJdELwgD/m3u8"/>
-
-  <item title="MX | ADN 40 | HD" description="Mexico" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnvNmV3UJydPvxvWrbUVo8XeE0AOdK-aatN38Vab8PHkU/m3u8"/>
-  <item title="MX | AZTECA 7 | HD" description="Mexico" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnimRSXCKKtLlwRoFOAbHMCMuNmL6h0Kr17eL9PK7Sg-I/m3u8"/>
-  <item title="MX | AZTECA UNO | HD" description="Mexico" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdniZp76oaQYJDSEW4wgRILMteRPBCIDyTfRq2j-pfEZCO/m3u8"/>
-  <item title="MX | CANAL 5 | HD" description="Mexico" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnimRSXCKKtLlwRoFOAbHMCOTfCnaz-lgjjOGwrC2_8yB/m3u8"/>
-  <item title="MX | LAS ESTRELLAS | HD" description="Mexico" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnhiNpn516-IIkN_dmPyftlsbPVee_gcz8sJ-QBCmJZJ3/m3u8"/>
-  <item title="MX | IMAGEN TV | HD" description="Mexico" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnnoexxJzAiX903F33KetIvkiyBUdNI8vrFpV5paLPlul/m3u8"/>
-
-  <item title="AR | C5N HD" description="Argentina" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnoBiGWBlFnKxbnOgb3IlbhT4pYqvAcol94S1D3OqrNpd/m3u8"/>
-  <item title="ARG HD | EL TRECE" description="Argentina" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnvxjDCSB_-PydALqkUGHzKb-VcZbKTJatUh8mMrSl8S_/m3u8"/>
-  <item title="ARG HD | TELEFE" description="Argentina" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnmnNeGDvllTLHDbg6VK-BK1unIZejTV7gwtE1l--DN6M/m3u8"/>
-  <item title="AR | TNT SPORTS HD" description="Argentina" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnoBiGWBlFnKxbnOgb3IlbhQnaPFZ27VGtlrj9rvneD4A/m3u8"/>
-
-  <item title="ESPN MX" description="Sports" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnvKL3hjfq0A5LQzxzYl2TPLyAlYwFtLGEc0fU_1_jZD6/m3u8"/>
-  <item title="FOX SPORTS 1 MX" description="Sports" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlBrvp8Veej97Brf06bSS5K6BXJCbD7D9ibMbUFH9MtH/m3u8"/>
-  <item title="TUDN MX HD" description="Sports" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdngxZgg9JUwpn0EDa0qg8Z8ZKtP7UC6YymJQNLcUh_rzC/m3u8"/>
-  <item title="WIN SPORTS PLUS" description="Sports" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdngxZgg9JUwpn0EDa0qg8Z8ZdXTO4xfRwyQTLa1fPUxIL/m3u8"/>
-  <item title="UFC FIGHT PASS" description="Sports" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdngxZgg9JUwpn0EDa0qg8Z8bQDoEKUBOgyMGTi4vtMgjp/m3u8"/>
-
-  <item title="HBO | HD" description="Premium" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnqzGfrAFw_FesJnH_7N35RZXKNdLQHo5ST2VCvi01Zht/m3u8"/>
-  <item title="CINEMAX | HD" description="Movies" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnkHaj8gXpdWUTK6hkRb8BJ2A0ux7d9d3L--dEcwGRDAo/m3u8"/>
-  <item title="WARNER | HD" description="Movies" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnuJvj5W-kBb61B2mkRHC95fJezQa1Oh-jwzcUFqhZ-Ef/m3u8"/>
-  <item title="STAR CHANNEL | HD" description="Movies" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnlt_2OCVTdlDf0KcKJbrptLKT1wg5jJzEwvIuORix_Um/m3u8"/>
-
-  <item title="USA | ABC NEW YORK" description="USA" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnst2Q81wkMmOJGMM-mrNxXF_17pWN-dIZFHiqCpQbXCe/m3u8"/>
-  <item title="USA | CBS NEW YORK" description="USA" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnpOJKo8r0rW35aDUZmtup0_4HLgCxmBxH27tFiYFaJ7r/m3u8"/>
-  <item title="USA | NBC NEW YORK" description="USA" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlitYZy-7AEA8k-BKkejQ_W29eRGMy8YQSQloRmW-sbE/m3u8"/>
-  <item title="USA | FOX NEWS HD" description="USA" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdno9fhAsmKQUVzZFv6-QDJiPZ5nEmRVmQZTc0WrrPKjaq/m3u8"/>
-
-  <item title="DISCOVERY CHANNEL | HD" description="Docs" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnouQQ4Tse_AASeTmOo9dJUCa6cOuol2aUCixxB6-4dr3/m3u8"/>
-  <item title="NAT GEO | HD" description="Docs" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlOQ81ju4_Iq0fWkxWrD3spGZHCQlWlDeimPLyHG_pgn/m3u8"/>
-  <item title="HISTORY CHANNEL | HD" description="Docs" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnqiDVn1wj6gIHxUZw0pP4a-KXIiCE-k6VoT4fBE3_pe6/m3u8"/>
-
-  <item title="DISNEY CHANNEL | HD" description="Kids" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnkQgo7qgvpegVJFCCm2mnmRdedc6H67cv06zPuB1Sjtu/m3u8"/>
-  <item title="NICKELODEON | HD" description="Kids" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnqAaN9aBAVIdYC4MWUuhOjke3QSIwxOroEBh4KLYAh6y/m3u8"/>
-  <item title="CARTOON NETWORK | HD" description="Kids" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnuJvj5W-kBb61B2mkRHC95fIJgublFnnlyeO5V9lmf5K/m3u8"/>
-</Content>
+<content>
+<item title="MX: MEX: AnubisTV" description="Mexico" hdposterurl="https://www.shutterstock.com/shutterstock/photos/1670473414/display_1500/stock-vector-anubis-esport-logo-with-a-serious-look-cool-charm-and-super-wow-1670473414.jpg" streamformat="mp4" url="https://dn720301.ca.archive.org/0/items/bienvenida_202105/Bienvenida.mp4"/>
+<item title="MX | TELEVISA CD JUAREZ | SD" description="Mexico" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdniciDKCAInSHO3fx60JzKb4tbfa4KbqcHK_wugt6aVjB/m3u8"/>
+<item title="MX | TELEVISA GUADALAJARA | HD" description="Mexico" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdniciDKCAInSHO3fx60JzKb7JxC8Cer-a266lHtQCJsgl/m3u8"/>
+<item title="MX | TELEVISA MONTERREY | HD" description="Mexico" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdniciDKCAInSHO3fx60JzKb6CzMQTUmOmH0HwRFVDYsCV/m3u8"/>
+<item title="MX | TELEVISA PUEBLA | HD" description="Mexico" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdniciDKCAInSHO3fx60JzKb6jLmjOcBdrV6Japj0tOlgs/m3u8"/>
+<item title="218 ESP: DW / DW - Espana" description="España" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdntWYwISGcGCfI0Xa9Q9tZ_4GDS1N78RCYOo9HwXwFWI7/m3u8"/>
+<item title="24/7 Cine Terror 3" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsWnNC1-L7uecipaYb9PEFKo/m3u8"/>
+<item title="24/7 Alerta Aeropuerto" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsXZyJD1rC4SYkVRfBSJRGDO/m3u8"/>
+<item title="24/7 Caballeros del Zodiaco cap 1 - 40" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsWw90wG8Gl39pvj10qrXDG5/m3u8"/>
+<item title="24/7 Cantinflas 3" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnt8P8-oVbrvynXcq7pNqL8a8PcSS_8ohPSH20S2boV8h/m3u8"/>
+<item title="24/7 Casa dibujos" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnt8P8-oVbrvynXcq7pNqL8bGuHTjvHsb1NKHoGirZyQ9/m3u8"/>
+<item title="24/7 Chespirito" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsWqkwYiMUW9RCyPibLPH4xL/m3u8"/>
+<item title="24/7 Cine Marvel Studio" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsUm46HF7ChQpf4vcVz1sDWO/m3u8"/>
+<item title="24/7 CINE ACCION" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsWkPFqRzYIfUXU0gkCPUV7Y/m3u8"/>
+<item title="24/7 Cine Terror 2" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsW1RdYC_fGeWiTh25zFvWxQ/m3u8"/>
+<item title="24/7 Cobra Kai" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsXxkx96TeiJExebdbjZbJhw/m3u8"/>
+<item title="24/7 Danny Phantom" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdngrLD_04xfzVCE7fLKuJ6igajipE3V3r5SW0Vw-yrP6Z/m3u8"/>
+<item title="24/7 Death Note" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnmlLeCoSYEXI42QS8aJ7cwd_A4Ap9cCMqM7Tmvy-ZYyA/m3u8"/>
+<item title="24/7 Dragon ball" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnnNigs1YqSH1WNX_aUg_cChrC8qzr7JXZsAtgz63MFpU/m3u8"/>
+<item title="24/7 Dragon Ball Super" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsX393rnQs-15Uj4Hnuq2p1o/m3u8"/>
+<item title="24/7 Dragon Ball Z Saiyajin" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsUQIMWHJ6i0ufw-JRDbpUrT/m3u8"/>
+<item title="24/7 El chavo - 2 temp" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnt8P8-oVbrvynXcq7pNqL8bkykk0Te_qLOm65H053QUv/m3u8"/>
+<item title="24/7 El Chavo del 8" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsUH8P02WcW45hEnaAalDRny/m3u8"/>
+<item title="24/7 Futurama" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnt8P8-oVbrvynXcq7pNqL8YLZ4Je8Mcf_6i1ahGcMjjB/m3u8"/>
+<item title="24/7 Halcones Galacticos" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsWezYfxK9YxPzW6uPmMHykz/m3u8"/>
+<item title="24/7 Harry Potter" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsVt2eH_Boh6-RjzLwUY43QO/m3u8"/>
+<item title="24/7 La Casa de Papel" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnt8P8-oVbrvynXcq7pNqL8bOhw0uy88uUPciT-1nlUeL/m3u8"/>
+<item title="24/7 La Familia Addams" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnt8P8-oVbrvynXcq7pNqL8bTBAl7pR5jfmyvGuZbSKly/m3u8"/>
+<item title="24/7 La familia monster" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsUGu-ZNUcOrLhcrflXLtjcc/m3u8"/>
+<item title="24/7 La Pantera Rosa" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsWe6Jkd_94vMHZ0jGw5eqtl/m3u8"/>
+<item title="24/7 La Rosa De Guadalupe" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsV9W_71eH4iU50LOtJknuPy/m3u8"/>
+<item title="24/7 La venganza de los Ex VIP" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnt8P8-oVbrvynXcq7pNqL8b59oa5T02nUicmPl5KMYMx/m3u8"/>
+<item title="24/7 Los Magnificos" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsV8WOO-VbapC5G-0ATO1sM7/m3u8"/>
+<item title="24/7 Los Simpsons" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsVi81RCXIWDU5V6HJdELwgD/m3u8"/>
+<item title="24/7 LOS SIMPSONS 12-17" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnt8P8-oVbrvynXcq7pNqL8Z7oHgZP_yRzAHtJQ43pxt0/m3u8"/>
+<item title="24/7 LOS SIMPSONS 18-21" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnt8P8-oVbrvynXcq7pNqL8a7jqoBR55YdtXIWygtE0eY/m3u8"/>
+<item title="24/7 LOS SIMPSONS 27-30" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnt8P8-oVbrvynXcq7pNqL8YOvFqJA5CmWjOcQq3tkAVM/m3u8"/>
+<item title="24/7 Mazinger Z" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsXvpwO55dnM1wTNz_RyZktG/m3u8"/>
+<item title="24/7 Mickey Mouse" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnt8P8-oVbrvynXcq7pNqL8aSyLROYuFMsUTuubLvRzg0/m3u8"/>
+<item title="24/7 Negociando con Tiburones" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnt8P8-oVbrvynXcq7pNqL8auwvAmXmgMNHQDAyeFRB_1/m3u8"/>
+<item title="24/7 Power Rangers" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsX-YyKL59kjr48ZVA4DlGUR/m3u8"/>
+<item title="24/7 RANMA" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnt8P8-oVbrvynXcq7pNqL8bBDEqTWmvO_l-whzn42Olv/m3u8"/>
+<item title="24/7 Rocky" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsURegxIDyKJGSpMh77_X6ZP/m3u8"/>
+<item title="24/7 Sin Tetas no hay páraiso" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnt8P8-oVbrvynXcq7pNqL8Y6bKp40vL0qJbOfafMDQId/m3u8"/>
+<item title="24/7 The Big Bang Theory" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsUp4-ieKmxvfClJd4vmBPSu/m3u8"/>
+<item title="24/7 The Sopranos" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnt8P8-oVbrvynXcq7pNqL8ZWgQulX6XdCC8AVoJEflzQ/m3u8"/>
+<item title="24/7 Toy Story" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnlDiA3_XexB9SalrLmE0BsWtKsQS4_FzPzG8mgphCiQa/m3u8"/>
+<item title="24/7 | Los Simpsons 2" description="24/7" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnt8P8-oVbrvynXcq7pNqL8bn9Dv_V2M9ArXGfHhcCxT8/m3u8"/>
+<item title="4MB | ADN 40 LQ" description="Mexico" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnqpR_rjhsIasV_ElXi9sReNYEya9_ePyncOT7BmNs46i/m3u8"/>
+<item title="4MB | AMC SD" description="Movies" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnqpR_rjhsIasV_ElXi9sReP9iDXNgLTLb0Sj-sZwCLrH/m3u8"/>
+<item title="4MB | AMC SD" description="Movies" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnqpR_rjhsIasV_ElXi9sReP9iDXNgLTLb0Sj-sZwCLrH/m3u8"/>
+<item title="4MB | BITME SD" description="Mexico" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnqpR_rjhsIasV_ElXi9sReMGSzHymXaF0dHkelQC7DfF/m3u8"/>
+<item title="4MB | Discovery Theater LQ" description="Documentaries" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnqpR_rjhsIasV_ElXi9sReMky5zkxQYODZ3UBWafCIYb/m3u8"/>
+<item title="4MB | Discovery world LQ" description="Documentaries" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnqpR_rjhsIasV_ElXi9sReOkppYwQma58Wbccp20Nd2c/m3u8"/>
+<item title="4MB | Espn 2 LQ" description="Sports" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnqpR_rjhsIasV_ElXi9sRePvmFHubwp_fZO9ce-_7pk5/m3u8"/>
+<item title="4MB | ESPN MX" description="Sports" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnqpR_rjhsIasV_ElXi9sReN-zSnMwZrb0xEqSYzxYyPf/m3u8"/>
+<item title="4MB | HBO 2" description="Movies" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnqpR_rjhsIasV_ElXi9sReMts8QlY_O22oXdfkEuQAcD/m3u8"/>
+<item title="5 Star Max" description="Movies" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnr8uCCqtEhiIDuaYRiXSydwbp7x6SMe8uhZaCoNbk4Vu/m3u8"/>
+<item title="AE" description="General" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnmnNeGDvllTLHDbg6VK-BK0Ikt9PPEaKmBtVpJE8LSlk/m3u8"/>
+<item title="A&E | HD" description="General" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdng0DPyMCY16TK1BRBOSGQyGbA6S0enCvtloPOq9wnpcN/m3u8"/>
+<item title="A&E | SD" description="General" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnlt_2OCVTdlDf0KcKJbrptLt8A4tL1hpIK9RPT5biVgg/m3u8"/>
+<item title="A+" description="Mexico" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnimRSXCKKtLlwRoFOAbHMCOZBiENQmVQvnNrrL1pXvBY/m3u8"/>
+<item title="A+ SD #2" description="Mexico" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnovlytOHKIDt9OL1PzrLYS0B9EfkGTGrZUMzraRVetx5/m3u8"/>
+<item title="A3 Series FHD i" description="Series" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3Qdnup0311Z_NSrbaAtsv8LEJv6VLQ8pwcnI9keuCOazi0O/m3u8"/>
+<item title="A3S | HD" description="Series" hdposterurl="Logo" streamformat="hls" url="http://lotv.plus:80/play/kbgTqHHhT5KyEcn6-3QdnqC4xyR8iI_8Kre32IvXcdGvq7n0pI0NDrjjxLwGuKzv/m3u8"/>
+</content>
